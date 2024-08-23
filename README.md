@@ -1,5 +1,6 @@
+<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="260" />
+
 ## Hello, I'm Tran Thanh Tung
-<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
 
 - 💻 Check out my blog at [3TBlog](https://thanh-tung.vercel.app/)
 - 👨‍🎓 Student graduated from [University of Science.](https://hus.vnu.edu.vn/)
