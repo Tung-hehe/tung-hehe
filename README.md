@@ -31,12 +31,6 @@
 <a href="https://www.figma.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/figma.svg" alt="figma" height="30" width="40" /></a>
 </p>
 
-<!-- ## :zap: GitHub Stats
-<p align="center">
-  <img src='https://github.com/Karhdo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp;
-  <img src='https://github.com/Karhdo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'>
-</p> -->
-
 <h3 align="left">📈 My Activities</h3>
 
 <picture>
