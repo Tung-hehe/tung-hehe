@@ -1,11 +1,13 @@
-<h3 align="left">Hi👋, I'm Trần Thanh Tùng</h3>
+<h1 align="center">Hi👋, I'm Tran Thanh Tung</h3>
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-- 💻 Check out my blog at [3TBlog](https://thanh-tung.vercel.app/)
-- 👨‍🎓 Student graduated from [University of Science.](https://hus.vnu.edu.vn/)
+<h3 align="left">🤖 About me</h3>
+
+- 😉 I'm a smiley guy.
+- 🎓 Student graduated from [University of Science.](https://hus.vnu.edu.vn/)
 - 🌱 I work on **Optimization Field**.
 - 🔭 I'm passionate about **Mathermatic** and **Technology**.
-- ⚡ I'm a smiley guy.
+- 💻 Check out my blog at [3TBlog](https://thanh-tung.vercel.app/)
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
