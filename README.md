@@ -1,6 +1,5 @@
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
-
 <h3 align="left">Hi👋, I'm Trần Thanh Tùng</h3>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 - 💻 Check out my blog at [3TBlog](https://thanh-tung.vercel.app/)
 - 👨‍🎓 Student graduated from [University of Science.](https://hus.vnu.edu.vn/)
