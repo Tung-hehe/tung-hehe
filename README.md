@@ -1,18 +1,12 @@
-<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
-
 ## Hello, I'm Tran Thanh Tung
+<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="280px" height="180" />
+
 
 - 💻 Check out my blog at [3TBlog](https://thanh-tung.vercel.app/)
 - 👨‍🎓 Student graduated from [University of Science.](https://hus.vnu.edu.vn/)
 - 👨🏻‍💻 I work on **Optimization Field**.
 - 🔭 I'm passionate about **Mathermatic** and **Technology**.
 - 🎮 My favorite game is **League of legend**.
-
-## 📫 Contact me via:
-
-  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:thanhtung1052001@gmail.com)&emsp;
-	[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/tieuthanh1024)
-
 <!-- ## :zap: GitHub Stats
 <p align="center">
   <img src='https://github.com/Karhdo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp;
