@@ -1,4 +1,4 @@
-<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
+<img alt="GIF" style="padding-top: 30px;" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
 
 ## Hello, I'm Tran Thanh Tung
 
