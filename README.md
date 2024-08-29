@@ -7,7 +7,7 @@
 - 🎓 Student graduated from [University of Science.](https://hus.vnu.edu.vn/)
 - 🌱 I work on **Optimization Field**.
 - 🔭 I'm passionate about **Mathermatic** and **Technology**.
-- 💻 Check out my blog at [3TBlog](https://thanh-tung.vercel.app/)
+- 💻 Check out my blog at [TungTT](https://thanh-tung.vercel.app/)
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
