@@ -27,7 +27,6 @@
 <a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/tailwind.svg" alt="tailwind" height="30" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/html.svg" alt="html" height="30" width="40" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/git.svg" alt="git" height="30" width="40" /></a>
-<a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/bootstrap.svg" alt="bootstrap" height="30" width="40" /></a>
 <a href="https://www.figma.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Tung-hehe/Tung-hehe/main/icons/figma.svg" alt="figma" height="30" width="40" /></a>
 </p>
 
